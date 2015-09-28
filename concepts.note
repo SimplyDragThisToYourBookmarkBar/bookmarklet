@@ -2,6 +2,7 @@ Concatenates css files, bubbling up import statements (as per the standard),
 and optionally rebasing urls and inlining local import statements.
 
 Given a DOM node, return a unique CSS selector matching only that element
+Get the shortest possible CSS selector path of an element.
 
 
 
